@@ -16,14 +16,12 @@ paginatePath = "page"
 # RSS
 rssLimit = 20
 
-
 [taxonomies]
   tag = "tags"
-  category = "categories"
 
+[menu]
 
-# Google analytics
-# googleAnalytics = "UA-47268287-3"
+    
 
 
 [languages.fr]
